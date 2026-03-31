@@ -10,9 +10,9 @@ It is intentionally simple:
 
 ## Screenshot
 
-![ShieldGuard main window](./screenshots/shieldguard-main.png)
+![ShieldGuard main window](./screenshots/shieldguard-main-window-only-2026-04-01.png)
 
-![Config file in Finder](./screenshots/config-in-finder.png)
+![Config file in Finder](./screenshots/config-in-finder-window-only-2026-04-01.png)
 
 ## What It Checks
 
