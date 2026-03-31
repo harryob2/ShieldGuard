@@ -12,8 +12,6 @@ It is intentionally simple:
 
 ![ShieldGuard main window](./screenshots/shieldguard-main-window-only-2026-04-01.png)
 
-![Config file in Finder](./screenshots/config-in-finder-window-only-2026-04-01.png)
-
 ## What It Checks
 
 ShieldGuard only checks package managers that are installed on your machine:
